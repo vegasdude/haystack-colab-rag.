@@ -1,0 +1,6 @@
+haystack-colab-rag/
+├── README.md
+├── requirements.txt
+├── sample_docs/           # Optional: put example PDFs/TXT/DOCX here
+├── colab_notebook.ipynb   # The final GUI notebook script
+├── .gitignore
