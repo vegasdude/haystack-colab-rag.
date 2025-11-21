@@ -1,0 +1,6 @@
+haystack-ai>=2.0.0
+openai>=1.0.0
+sentence-transformers
+PyPDF2
+python-docx
+ipywidgets
